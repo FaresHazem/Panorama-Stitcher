@@ -4,8 +4,8 @@ This project demonstrates how to create a panorama image by stitching multiple i
 
 ## Repository Structure
 
-- **images/**: Contains input images and the resulting stitched output.
-- **notebooks/**:
+- **Images/**: Contains input images and the resulting stitched output.
+- **Notebooks/**:
   - `Panorama Using Built-in Stitcher.ipynb`: Demonstrates how to use an existing library to stitch images.
   - `Panorama Stitcher From Scratch.ipynb`: Walks through the process of stitching images manually using image processing techniques.
 
