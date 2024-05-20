@@ -15,13 +15,13 @@ Below are examples of input images and the resulting stitched panorama:
 
 ### Input Images
 <p align="center">
-  <img src="images/image1.png" alt="Image 1" width="45%" />
-  <img src="images/image2.png" alt="Image 2" width="45%" />
+  <img src="Images/image1.png" alt="Image 1" width="45%" />
+  <img src="Images/image2.png" alt="Image 2" width="45%" />
 </p>
 
 ### Output Image
 <p align="center">
-  <img src="images/Output.png" alt="Output" width="90%" />
+  <img src="Images/Output.png" alt="Output" width="90%" />
 </p>
 
 ## Dependencies
